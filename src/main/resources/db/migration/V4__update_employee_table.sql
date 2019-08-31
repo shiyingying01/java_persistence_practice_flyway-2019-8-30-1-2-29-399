@@ -1,0 +1,1 @@
+ALTER TABLE employee CHANGE vocation position VARCHAR(255);
